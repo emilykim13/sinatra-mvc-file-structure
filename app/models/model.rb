@@ -1,3 +1,3 @@
-class Model
+class Model #logic (typically represents User, Post, or Comment)
 
 end
